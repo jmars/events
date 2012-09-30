@@ -4,7 +4,9 @@
   "description": "Events component.",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "jmars/process":"*"
+  },
   "development": {},
   "scripts":[
   	"index.js"

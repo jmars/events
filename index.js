@@ -1,3 +1,7 @@
+if (typeof process == 'undefined'){
+  process = require('process');
+}
+
 if (!process.EventEmitter) process.EventEmitter = function () {};
 
 var EventEmitter = exports.EventEmitter = process.EventEmitter;
