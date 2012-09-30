@@ -1,4 +1,5 @@
-events
-======
 
-Events component.
+# events
+
+  Events component.
+
